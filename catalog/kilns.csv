@@ -1,0 +1,7 @@
+kiln_id,label,studio,commissioned_on,display_rank,target_c,tolerance_c
+KL-201,Ember Arc,Clay Room,2058-01-12,3,1000,20
+KL-202,Porcelain Bay,East Studio,2057-06-03,1,1220,15
+KL-203,Raku Courtyard,Outdoor Yard,2059-03-20,6,950,25
+KL-204,Test Hearth,Learning Lab,2056-11-08,2,800,30
+KL-205,Glass Annealer,Hot Shop,2055-04-14,5,780,10
+KL-206,Enamel Cabinet,Metal Studio,2058-09-01,4,850,5

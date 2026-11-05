@@ -1,0 +1,16 @@
+{"kiln_id":"KL-201","recorded_at":"2065-02-01T09:00:00Z","peak_c":990,"interlock_ok":true,"cycle_id":11}
+{"kiln_id":"KL-202","recorded_at":"2065-02-12T14:30:00Z","peak_c":1205,"interlock_ok":true,"cycle_id":20}
+{"kiln_id":"KL-204","recorded_at":"2065-02-15T16:00:00Z","peak_c":800,"interlock_ok":false,"cycle_id":31}
+{"kiln_id":"KL-205","recorded_at":"2065-02-16T10:00:00Z","peak_c":775,"interlock_ok":true,"cycle_id":8}
+{"kiln_id":"KL-205","recorded_at":"2065-02-16T10:00:00Z","peak_c":789,"interlock_ok":true,"cycle_id":9}
+{"kiln_id":"KL-206","recorded_at":"2065-02-17T08:00:00Z","peak_c":850,"interlock_ok":true,"cycle_id":44}
+{"kiln_id":"KL-201","recorded_at":"2065-02-18T19:15:00Z","peak_c":1025,"interlock_ok":true,"cycle_id":12}
+{"kiln_id":"KL-206","recorded_at":"2065-02-17T08:00:00Z","peak_c":855,"interlock_ok":true,"cycle_id":45}
+{"kiln_id":"KL-206","recorded_at":"2065-02-17T08:00:00Z","peak_c":844,"interlock_ok":true,"cycle_id":45}
+{"kiln_id":"KL-203","recorded_at":"2059-03-19T23:59:59Z","peak_c":950,"interlock_ok":true,"cycle_id":2}
+{"kiln_id":"KL-203","recorded_at":"2065-02-20T18:00:01Z","peak_c":947,"interlock_ok":true,"cycle_id":3}
+{"kiln_id":"KL-202","recorded_at":"2065-02-11T10:00:00Z","peak_c":1220,"interlock_ok":1,"cycle_id":19}
+{"kiln_id":"KL-999","recorded_at":"2065-02-10T10:00:00Z","peak_c":900,"interlock_ok":true,"cycle_id":7}
+{"kiln_id":"KL-204","recorded_at":"2065-02-15T17:00:00Z","peak_c":801,"interlock_ok":true,"cycle_id":0}
+{"kiln_id":"KL-201","recorded_at":"2065-02-18T19:15:00Z","peak_c":1020,"interlock_ok":true,"cycle_id":"13"}
+not-json
