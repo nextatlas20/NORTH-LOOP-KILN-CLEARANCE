@@ -1,0 +1,6 @@
+{"kiln_id":"KL-202","label":"Porcelain Bay","studio":"East Studio","selected_recorded_at":"2065-02-12T14:30:00Z","peak_c":1205,"valid_run_count":1,"result":"CLEARED"}
+{"kiln_id":"KL-204","label":"Test Hearth","studio":"Learning Lab","selected_recorded_at":"2065-02-15T16:00:00Z","peak_c":800,"valid_run_count":1,"result":"LOCKOUT"}
+{"kiln_id":"KL-201","label":"Ember Arc","studio":"Clay Room","selected_recorded_at":"2065-02-18T19:15:00Z","peak_c":1025,"valid_run_count":2,"result":"SERVICE"}
+{"kiln_id":"KL-206","label":"Enamel Cabinet","studio":"Metal Studio","selected_recorded_at":"2065-02-17T08:00:00Z","peak_c":844,"valid_run_count":3,"result":"SERVICE"}
+{"kiln_id":"KL-205","label":"Glass Annealer","studio":"Hot Shop","selected_recorded_at":"2065-02-16T10:00:00Z","peak_c":789,"valid_run_count":2,"result":"CLEARED"}
+{"kiln_id":"KL-203","label":"Raku Courtyard","studio":"Outdoor Yard","selected_recorded_at":"-","peak_c":null,"valid_run_count":0,"result":"NO_RUN"}
